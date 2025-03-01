@@ -19,14 +19,12 @@ This project works with the dataset <strong>"Most popular 1000 Youtube videos"</
 <h2>📊Analysis results📊</h2>
 
 <h3>1. The most represented category</h3>
-![video_categories](https://github.com/user-attachments/assets/32bf1540-2dc8-4340-bdcd-482d54a7d1ad)
+<img src="Visualizations/video_categories.png" alt="Pie chart visualization showing proportions of each category">
 
 <br>
   From the pie chart visualization, we can clearly see that "Music" category leads the way with around 44% of the dataset categories being "Music". 
 
 <h3>2. Analysis of the most represented (likes, dislikes, views)</h3>
-![views_likes_ratio-music](https://github.com/user-attachments/assets/8181d70c-12ea-44d8-b4fd-4a9d6890a606)
-![views_dislikes_ratio-music](https://github.com/user-attachments/assets/447e7180-c9ce-414f-8874-321be9f2b107)
-
-<br>
-  By using scatterplot visualizations, I answered the question whether like/dislike counts tend to increase with video views in the "Music" category.
+<img src="Visualizations/views_likes_ratio-music.png" alt="Scatterplot visualization, which shows the ratio between views and likes in the music category"><img src="Visualizations/views_dislikes_ratio-music.png" alt="Scatterplot visualization, which shows the ratio between views and likes in the music category">
+  
+  By using scatterplot visualizations, I answered the question whether like/dislike counts tend to increase with video views in the "Music" category. In both scatterplots, we can clearly see the strong positive correlation between variables. 
